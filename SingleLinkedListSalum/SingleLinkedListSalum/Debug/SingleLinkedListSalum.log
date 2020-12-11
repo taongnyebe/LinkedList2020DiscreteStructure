@@ -1,0 +1,3 @@
+﻿  SingleLinkedListSalum.cpp
+D:\source\SingleLinkedListSalum\SingleLinkedListSalum\SingleLinkedListSalum.cpp(319,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SingleLinkedListSalum.vcxproj -> D:\source\SingleLinkedListSalum\Debug\SingleLinkedListSalum.exe
